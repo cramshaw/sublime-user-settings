@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Auto Close HTML Tags",
+		"Babel",
+		"Cython",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pycodestyle"
+	]
+}

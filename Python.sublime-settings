@@ -1,0 +1,13 @@
+{
+	"extensions":
+	[
+		"py"
+	],
+  "tab_size": 4,
+  "wrap_width": 80,
+  "ensure_newline_at_eof_on_save": true,
+  "rulers": [
+    72,
+    79
+  ]
+}
